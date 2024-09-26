@@ -20,13 +20,9 @@ Welcome to my portfolio website! This project showcases my work, skills, and pas
 
 ## Getting Started
 
-To view my portfolio, simply clone this repository and open the `index.html` file in your browser.
+To view my portfolio, simply clone this repository and open the `https://shanmugapriya-1994.github.io/portfolio-simple-website/index.html` file in your browser.
 
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-open index.html
-```
+
 
 
 
